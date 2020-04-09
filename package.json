@@ -1,0 +1,9 @@
+{
+  "name": "parse-ast-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compiler.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
